@@ -1,4 +1,7 @@
 paper-stepper [![Bower version](https://badge.fury.io/bo/paper-stepper.svg)](http://badge.fury.io/bo/paper-stepper) [![Travis state](https://travis-ci.org/Collaborne/paper-stepper.svg?branch=master)](https://travis-ci.org/Collaborne/paper-stepper) [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/Collaborne/paper-stepper)
+  
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/Collabornepaper-collapse-item)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/Collabornepaper-collapse-item.svg)](https://vaadin.com/directory/component/Collabornepaper-collapse-item)
 =========
 
 A Material Design [stepper](https://www.google.com/design/spec/components/steppers.html). This element is built for [Polymer](https://www.polymer-project.org).
